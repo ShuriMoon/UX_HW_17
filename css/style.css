@@ -50,14 +50,14 @@
 
 .h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 5vw;
+    font-size: 5rem;
     color: aliceblue;
 }
 
 .p {
     font-family: Open Sans;
     color: aliceblue;
-    font-size:1.5vw ;
+    font-size:1.5rem ;
 }
 #hroImg{
     width: 50%;
